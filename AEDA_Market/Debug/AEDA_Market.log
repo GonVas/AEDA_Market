@@ -1,0 +1,16 @@
+﻿  Source.cpp
+  Share.cpp
+c:\programming\cpp\aeda\project\aeda_market\aeda_market\share.cpp(8): warning C4244: '=': conversion from 'double' to 'uni', possible loss of data
+  Order.cpp
+  Market.cpp
+c:\programming\cpp\aeda\project\aeda_market\aeda_market\market.cpp(14): warning C4244: '=': conversion from 'double' to 'uni', possible loss of data
+c:\programming\cpp\aeda\project\aeda_market\aeda_market\market.cpp(21): warning C4244: '=': conversion from 'double' to 'uni', possible loss of data
+c:\programming\cpp\aeda\project\aeda_market\aeda_market\market.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\programming\cpp\aeda\project\aeda_market\aeda_market\market.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\programming\cpp\aeda\project\aeda_market\aeda_market\market.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\programming\cpp\aeda\project\aeda_market\aeda_market\market.cpp(155): warning C4018: '<': signed/unsigned mismatch
+  Client.cpp
+c:\programming\cpp\aeda\project\aeda_market\aeda_market\client.cpp(7): warning C4244: '=': conversion from 'double' to 'uni', possible loss of data
+  Generating Code...
+  AEDA_Market.vcxproj -> C:\Programming\cpp\AEDA\Project\AEDA_Market\Debug\AEDA_Market.exe
+  AEDA_Market.vcxproj -> C:\Programming\cpp\AEDA\Project\AEDA_Market\Debug\AEDA_Market.pdb (Full PDB)
